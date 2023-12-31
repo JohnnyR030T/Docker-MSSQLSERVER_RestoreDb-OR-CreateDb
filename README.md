@@ -1,5 +1,5 @@
 # Docker-MSSQLSERVER_RestoreDb-OR-CreateDb
-Restore .BAK file and/or create a new database in a Docker container.
+**Restore .BAK file and/or create a new database in a Docker container. This was created so I can spin up a database quickly, without having to have MS SQL Server running on the local machine.**
 
 Note: The database restore function is disabled by default. To enable the restore functionality, just uncomment the following line. Save the dockerfile. Then rebuild.
 
