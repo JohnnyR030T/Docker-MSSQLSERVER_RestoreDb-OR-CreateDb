@@ -2,6 +2,7 @@
 Restore .BAK file and/or create a new database in a Docker container.
 
 Note: The database restore function is disabled by default. To enable the restore functionality, just uncomment the following line. Save the dockerfile. Then rebuild.
+
 ![image](https://github.com/JohnnyR030T/Docker-MSSQLSERVER_RestoreDb-OR-CreateDb/assets/2913985/24fa788d-06a7-40d9-90e1-93f288fb9935)
 
 - Open a PowerShell terminal
